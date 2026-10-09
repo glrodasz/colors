@@ -54,7 +54,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title,
     description,
-    creator: "@guillermorodas",
+    creator: "@germorodas",
   },
   icons: {
     icon: [
